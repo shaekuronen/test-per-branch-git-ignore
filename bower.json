@@ -1,0 +1,9 @@
+{
+  "name": "middleman-project-starter",
+  "version": "1.0.0",
+  "ignore": [],
+  "dependencies": {
+    "foundation": "zurb/bower-foundation#=5.5.0"
+  },
+  "devDependencies": {}
+}
